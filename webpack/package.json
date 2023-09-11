@@ -36,9 +36,9 @@
     "redux": "^4.1.2"
   },
   "devDependencies": {
-    "@modern-js/app-tools": "2.18.1",
-    "@modern-js/builder-rspack-provider": "2.18.1",
-    "@modern-js/tsconfig": "2.18.1",
+    "@modern-js/app-tools": "2.34.0",
+    "@modern-js/builder-rspack-provider": "2.34.0",
+    "@modern-js/tsconfig": "2.34.0",
     "rimraf": "^3.0.2",
     "lint-staged": "^11.2.6",
     "prettier": "^2.6.2",
